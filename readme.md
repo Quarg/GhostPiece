@@ -5,13 +5,16 @@ Unlike other tools, this displays connectivity, and can show ghost pieces for ad
 
 ## Examples:
 
-PCO:
+#### PCO:
+
 ![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/pco.png?raw=true)
 
-Bathtub:
+#### Bathtub:
+
 ![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/bathtub.png?raw=true)
 
-A box solve:
+#### A box solve:
+
 ![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/box.png?raw=true)
 
 ## Usage
