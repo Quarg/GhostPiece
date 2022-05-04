@@ -7,15 +7,15 @@ Unlike other tools, this displays connectivity, and can show ghost pieces for ad
 
 #### PCO:
 
-![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/pco.png?raw=true)
+![PCO](https://github.com/Quarg/GhostPiece/blob/master/examples/pco.png?raw=true)
 
 #### Bathtub:
 
-![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/bathtub.png?raw=true)
+![Bathtub](https://github.com/Quarg/GhostPiece/blob/master/examples/bathtub.png?raw=true)
 
 #### A box solve:
 
-![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/box.png?raw=true)
+![Box solve](https://github.com/Quarg/GhostPiece/blob/master/examples/box.png?raw=true)
 
 ## Usage
 
