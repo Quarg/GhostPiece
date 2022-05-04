@@ -3,6 +3,20 @@
 This is a small standalone C applicaction for creating tetris field images for notes and guides.
 Unlike other tools, this displays connectivity, and can show ghost pieces for additional options for notation.
 
+## Examples:
+
+#### PCO:
+
+![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/pco.png?raw=true)
+
+#### Bathtub:
+
+![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/bathtub.png?raw=true)
+
+#### A box solve:
+
+![alt text](https://github.com/Quarg/GhostPiece/blob/master/examples/box.png?raw=true)
+
 ## Usage
 
 * Place tiles with left click.
